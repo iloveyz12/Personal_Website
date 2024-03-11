@@ -1,0 +1,5 @@
+---
+title: ""
+---
+
+I am a student majoring in Mathematics at the University of Toronto. I have a three months internship as a data annotation specialist at Bytedance.
